@@ -15,8 +15,8 @@
   <h3 align="center">A Yoom Clone</h3>
   <h4 align="center">
         Preview: 
-        <a href="https://app-clone-sigma.vercel.app/" target="_blank">
-                    https://app-clone-sigma.vercel.app/
+        <a href="https://myk-zoom-clone.vercel.app/" target="_blank">
+                    https://myk-zoom-clone.vercel.app/
         </a>
     </h4>
 
